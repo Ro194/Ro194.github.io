@@ -1,0 +1,26 @@
+h1{
+  color: red;
+  font-family: cursive;
+  font-size: 100
+}
+p{
+  color: #cc0099;
+  font-size:80
+}
+body{
+  background-color: #4d79ff;
+}
+h2{
+  color: red;
+  font-size: 90;
+  font-family: cursive;
+}
+h3{
+  color: red;
+  font-size: 90;
+  font-family: cursive;
+}
+li{
+  font-size: 70;
+  color: #cc0099
+}
